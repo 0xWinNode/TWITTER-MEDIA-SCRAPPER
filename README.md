@@ -58,3 +58,5 @@ This script is provided for educational and personal use. Always respect Twitter
 ## Contributing
 
 Contributions to enhance the functionality of this script, including adding support for video downloads or improving efficiency, are welcome. Please feel free to fork the repository and submit pull requests.
+
+# Terima Kasih
